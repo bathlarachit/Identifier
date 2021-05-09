@@ -26,7 +26,7 @@ SECRET_KEY = 'u25hj7n+lw!5p#)n*qgcus4%#-4nofzlo6d+5^pca$z85df4ei'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://udentica.herokuapp.com/']
+ALLOWED_HOSTS = ['udentica.herokuapp.com/']
 
 
 # Application definition
